@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moesoeee
 - 👀 I’m interested in gaming, coding, fitness and a bunch of other stuff
-- 🌱 I’m currently studying Software Development Level 4 at Scalda.
+- 🌱 I’m currently studying Software Development niveau 4 at Scalda.
 - 🌐 I’m passionate about building responsive, user-friendly web applications and continuously learning new technologies.
 - 🎓 And am planning to go to University after i get my MBO diploma.
 - 📫 You can reach me by sending a message on LinkedIn or discord
