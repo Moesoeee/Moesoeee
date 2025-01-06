@@ -30,7 +30,7 @@ I'm a passionate **Software Developer** from the Netherlands, diving deep into *
 
 ---
 
-> "Dreams without goals are just dreams." – **Robert Denzel**
+> "Dreams without goals are just dreams." – **Denzel Washington**
 
 ---
 
