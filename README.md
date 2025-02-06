@@ -12,7 +12,7 @@ I'm a passionate **Software Developer** from the Netherlands, diving deep into *
 
 ## 📫 Reach Me
 
-- **[LinkedIn](https://www.linkedin.com/in/your-linkedin)**  
+- **[LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mees-de-kerf-2107b328b/))**  
 
 ## 💻 Skills & Technologies
 
