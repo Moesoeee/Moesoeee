@@ -13,7 +13,6 @@ I'm a passionate **Software Developer** from the Netherlands, diving deep into *
 ## 📫 Reach Me
 
 - **[LinkedIn](https://www.linkedin.com/in/your-linkedin)**  
-- **[Discord](https://discord.com/users/your-discord-id)**
 
 ## 💻 Skills & Technologies
 
