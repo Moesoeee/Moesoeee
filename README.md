@@ -8,7 +8,6 @@ I'm a passionate **Software Developer** from the Netherlands, diving deep into *
 - 💻 **Passionate** about building **responsive**, **user-friendly web applications**.
 - 🎮 **Game Development** enthusiast & **3D Design** lover.
 - 🌐 Always excited to **learn new technologies** and build cool stuff!
-- 🎓 **Planning to go to University** after completing my MBO diploma.
 
 ## 📫 Reach Me
 
