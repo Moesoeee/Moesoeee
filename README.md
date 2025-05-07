@@ -16,7 +16,7 @@ I'm a passionate **Software Developer** from the Netherlands, diving deep into *
 
 ## 💻 Skills & Technologies
 
-- **Languages**: JavaScript, TypeScript, Python, Java, C#
+- **Languages**: JavaScript, TypeScript, HTML and SCSS
 - **Frameworks**: Angular, Node.js 
 - **Databases**:  MySQL
 - **Other**: Git, GitHub, Unity, Blender (3D Design), and more!
