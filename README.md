@@ -5,8 +5,8 @@ I'm a passionate **Software Developer** from the Netherlands, diving deep into *
 ## 🔍 What I'm Up To
 
 - 🌱 Currently studying **Software Development Niveau 4** at **Scalda**.
-- 💻 **Passionate** about building **responsive**, **user-friendly web applications**.
-- 🎮 **Game Development** enthusiast & **3D Design** lover.
+- 💻 **Passionate** about building **usefull**, **user-friendly web applications**.
+- 🎮 **Gaming** enthusiast.
 - 🌐 Always excited to **learn new technologies** and build cool stuff!
 
 ## 📫 Reach Me
@@ -19,7 +19,7 @@ I'm a passionate **Software Developer** from the Netherlands, diving deep into *
 - **Languages**: JavaScript, TypeScript, HTML and SCSS
 - **Frameworks**: Angular, Node.js 
 - **Databases**:  MySQL
-- **Other**: Git, GitHub, Unity, Blender (3D Design), and more!
+- **Other**: Git, GitHub, Unity, Blender (3D Design).
 
 ## 🎯 Goals
 
