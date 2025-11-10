@@ -5,7 +5,7 @@ I'm a passionate **Software Developer** from the Netherlands, diving deep into *
 ## 🔍 What I'm Up To
 
 - 🌱 Currently studying **Software Development Niveau 4** at **Scalda**.
-- 💻 **Passionate** about building **usefull**, **user-friendly web applications**.
+- 💻 Passionate about building real, **useful** products that make an impact.
 - 🎮 **Gaming** enthusiast.
 - 🌐 Always excited to **learn new technologies** and build cool stuff!
 
