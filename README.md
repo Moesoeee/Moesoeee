@@ -16,10 +16,10 @@ I'm a passionate **Software Developer** from the Netherlands, diving deep into *
 
 ## 💻 Skills & Technologies
 
-- **Languages**: JavaScript, TypeScript, HTML and SCSS
+- **Languages**: JavaScript, PHP, HTML and SCSS
 - **Frameworks**: Angular, Node.js 
 - **Databases**:  MySQL
-- **Other**: Git, GitHub, Unity, Blender (3D Design).
+- **Other**: Git, GitHub and a bit of Unity.
 
 ## 🎯 Goals
 
