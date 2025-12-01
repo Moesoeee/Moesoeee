@@ -4,7 +4,7 @@ I'm a passionate **Software Developer** from the Netherlands, diving deep into *
 
 ## 🔍 What I'm Up To
 
-- 🌱 Currently studying **Software Development Niveau 4** at **Scalda**.
+- 🌱 Currently studying **Software Development** at **Scalda**.
 - 💻 Passionate about building real, **useful** products that make an impact.
 - 🎮 **Gaming** enthusiast.
 - 🌐 Always excited to **learn new technologies** and build cool stuff!
@@ -13,7 +13,6 @@ I'm a passionate **Software Developer** from the Netherlands, diving deep into *
 
 - **[LinkedIn](https://www.linkedin.com/in/mees-de-kerf-2107b328b/)**
   
-
 ## 💻 Skills & Technologies
 
 - **Languages**: JavaScript, PHP, HTML and SCSS
